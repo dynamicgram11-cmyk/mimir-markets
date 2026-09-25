@@ -1,0 +1,21 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/issue-38-feat-api-expire-x402-quotes-before-verification",
+    "fix/issue-328-fix-api-use-the-db-execute-helper-in-the",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feat/issue-38-feat-api-expire-x402-quotes-before-verification": "main",
+    "fix/issue-328-fix-api-use-the-db-execute-helper-in-the": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feat/issue-38-feat-api-expire-x402-quotes-before-verification",
+    "fix/issue-328-fix-api-use-the-db-execute-helper-in-the",
+    "origin"
+  ]
+}
